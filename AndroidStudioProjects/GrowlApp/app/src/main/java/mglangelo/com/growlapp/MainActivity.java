@@ -50,28 +50,28 @@ public class MainActivity extends ActionBarActivity {
 
     public void cht (View view) {
 
-        Intent intent = new Intent(this, MyActivity3.class);
+        Intent intent = new Intent(this, MyActivity4.class);
         startActivity(intent);
 
     }
 
     public void comach (View view) {
 
-        Intent intent = new Intent(this, MyActivity3.class);
+        Intent intent = new Intent(this, MyActivity5.class);
         startActivity(intent);
 
     }
 
     public void cya (View view) {
 
-        Intent intent = new Intent(this, MyActivity3.class);
+        Intent intent = new Intent(this, MyActivity6.class);
         startActivity(intent);
 
     }
 
     public void earthust (View view) {
 
-        Intent intent = new Intent(this, MyActivity3.class);
+        Intent intent = new Intent(this, MyActivity7.class);
         startActivity(intent);
 
     }
@@ -79,21 +79,43 @@ public class MainActivity extends ActionBarActivity {
 
     public void euust (View view) {
 
-        Intent intent = new Intent(this, MyActivity3.class);
+        Intent intent = new Intent(this, MyActivity8.class);
         startActivity(intent);
 
     }
 
     public void fma (View view) {
 
-        Intent intent = new Intent(this, MyActivity3.class);
+        Intent intent = new Intent(this, MyActivity9.class);
         startActivity(intent);
 
     }
 
     public void fotomasino (View view) {
 
-        Intent intent = new Intent(this, MyActivity3.class);
+        Intent intent = new Intent(this, MyActivity10.class);
+        startActivity(intent);
+
+    }
+
+    public void lingkoder (View view) {
+
+        Intent intent = new Intent(this, MyActivity11.class);
+        startActivity(intent);
+
+    }
+
+
+    public void mediatrix (View view) {
+
+        Intent intent = new Intent(this, MyActivity12.class);
+        startActivity(intent);
+
+    }
+
+    public void musikat (View view) {
+
+        Intent intent = new Intent(this, MyActivity13.class);
         startActivity(intent);
 
     }

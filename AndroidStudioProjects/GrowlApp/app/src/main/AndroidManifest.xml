@@ -48,6 +48,22 @@
             android:name=".MyActivity9"
             android:label="@string/title_activity_my_activity9" >
         </activity>
+        <activity
+            android:name=".MyActivity10"
+            android:label="@string/title_activity_my_activity10" >
+        </activity>
+        <activity
+            android:name=".MyActivity11"
+            android:label="@string/title_activity_my_activity11" >
+        </activity>
+        <activity
+            android:name=".MyActivity12"
+            android:label="@string/title_activity_my_activity12" >
+        </activity>
+        <activity
+            android:name=".MyActivity13"
+            android:label="@string/title_activity_my_activity13" >
+        </activity>
     </application>
 
 </manifest>
